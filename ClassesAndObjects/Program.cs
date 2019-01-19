@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpFundamentals
+namespace ClassesAndObjects
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTime.Now.DayOfWeek);
         }
     }
 }
